@@ -1,0 +1,46 @@
+TS Parameters file
+Room EQ V5.20.13
+Dated: Sep 2, 2023 1:12:48 PM
+From measurement RF-30QYPro
+
+Zmin 7.14 ohm
+fmin 450 Hz
+f3 3404 Hz
+Le(f3) 0.235 mH
+Motional impedance parameters
+R0 42.15 ohm
+CMES 244.5 uF
+L0 6.556 mH
+beta 0.0149 
+omega0 1182.6 
+Blocked impedance parameters
+RDC 6.70 ohm
+dR 0.17 ohm
+Re 6.87 ohm
+Leb 51.6 uH
+Le 0.422 mH
+Rss 100000.0 ohm
+Ke 0.0579 S-H
+Thiele-Small parameters
+fs 125.1 Hz
+Qms 7.249
+Qes 1.321
+Qts 1.118
+Fts 112.0
+Mms 2.43 g
+Cms 0.666 mm/N
+Rms 0.264 kg/s
+Vas 0.92 litres
+Bl 3.152 Tm
+Eta 0.13 %
+Lp (1W/1m) 83.16 dB
+Dd 6.30 cm
+Sd 31.2 cm^2
+Added mass 1 measurement: 
+Added mass 1 1.000 g
+Added mass 2 measurement: 
+Added mass 2 2.000 g
+Air temperature 28.0 C
+Air pressure 1013.25 mB
+Air density 1.1721 kg/m^3
+Speed of sound 347.9 m/s

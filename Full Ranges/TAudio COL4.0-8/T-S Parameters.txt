@@ -1,0 +1,46 @@
+TS Parameters file
+Room EQ V5.31.1
+Dated: May 18, 2024 10:54:46 PM
+From measurement COL4.0 After burn Free Air
+
+Zmin 6.51 ohm
+fmin 432 Hz
+f3 4696 Hz
+Le(f3) 0.082 mH
+Motional impedance parameters
+R0 57.90 ohm
+CMES 218.1 uF
+L0 11.999 mH
+beta 0.0000 
+omega0 927.6 
+Blocked impedance parameters
+RDC 6.04 ohm
+dR 0.10 ohm
+Re 6.14 ohm
+Leb 40.9 uH
+Le 0.704 mH
+Rss 5.7 ohm
+Ke 0.0386 S-H
+Thiele-Small parameters
+fs 98.4 Hz
+Qms 7.806
+Qes 0.827
+Qts 0.748
+Fts 131.6
+Mms 5.49 g
+Cms 0.477 mm/N
+Rms 0.434 kg/s
+Vas 1.70 litres
+Bl 5.015 Tm
+Eta 0.18 %
+Lp (1W/1m) 84.75 dB
+Dd 8.00 cm
+Sd 50.3 cm^2
+Added mass 1 measurement: 
+Added mass 1 3.000 g
+Added mass 2 measurement: 
+Added mass 2 6.000 g
+Air temperature 26.0 C
+Air pressure 1005.00 mB
+Air density 1.1703 kg/m^3
+Speed of sound 346.7 m/s

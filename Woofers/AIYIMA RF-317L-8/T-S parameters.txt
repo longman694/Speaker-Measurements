@@ -1,0 +1,46 @@
+TS Parameters file
+Room EQ V5.31.1
+Dated: May 18, 2024 11:20:03 PM
+From measurement RF-317L-8
+
+Zmin 7.86 ohm
+fmin 250 Hz
+f3 750 Hz
+Le(f3) 1.230 mH
+Motional impedance parameters
+R0 40.12 ohm
+CMES 193.1 uF
+L0 16.034 mH
+beta 0.0000 
+omega0 895.9 
+Blocked impedance parameters
+RDC 7.20 ohm
+dR -0.12 ohm
+Re 7.08 ohm
+Leb 55.2 uH
+Le 2.175 mH
+Rss 100000.0 ohm
+Ke 0.2621 S-H
+Thiele-Small parameters
+fs 90.5 Hz
+Qms 4.403
+Qes 0.777
+Qts 0.661
+Fts 136.9
+Mms 6.11 g
+Cms 0.506 mm/N
+Rms 0.789 kg/s
+Vas 0.57 litres
+Bl 5.627 Tm
+Eta 0.05 %
+Lp (1W/1m) 79.20 dB
+Dd 6.00 cm
+Sd 28.3 cm^2
+Added mass 1 measurement: 
+Added mass 1 3.000 g
+Added mass 2 measurement: 
+Added mass 2 6.000 g
+Air temperature 28.0 C
+Air pressure 1013.25 mB
+Air density 1.1721 kg/m^3
+Speed of sound 347.9 m/s
