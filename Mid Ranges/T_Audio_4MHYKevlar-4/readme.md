@@ -25,17 +25,15 @@
 * X(i)= 0.6069
 ```
 
-![Picture 1](/Mid Ranges/T_Audio_4MHYKevlar-4/picture.jpg)
+![Picture 1](${filename}/../picture.jpg)
 
-![Picture 2](/Mid Ranges/T_Audio_4MHYKevlar-4/Picture2.jpg)
+![Picture 3](${filename}/../Picture3.jpg)
 
-![Picture 3](/Mid Ranges/T_Audio_4MHYKevlar-4/Picture3.jpg)
+![FR](${filename}/../FR.png)
 
-![FR](/Mid Ranges/T_Audio_4MHYKevlar-4/FR.png)
+![Directivity](${filename}/../directivity.png)
 
-![Directivity](/Mid Ranges/T_Audio_4MHYKevlar-4/directivity.png)
+![Distortion](${filename}/../distortion.png)
 
-![Distortion](/Mid Ranges/T_Audio_4MHYKevlar-4/distortion.png)
-
-![Waterfall](/Mid Ranges/T_Audio_4MHYKevlar-4/waterfall.jpg)
+![Waterfall](${filename}/../waterfall.jpg)
 
